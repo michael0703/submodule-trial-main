@@ -1,0 +1,3 @@
+[submodule "reference/sub-module"]
+	path = reference/sub-module
+	url = git@github.com:michael0703/submodule-trial-sub.git
